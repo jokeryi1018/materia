@@ -1,0 +1,2 @@
+TaintFrame.cpp是一个污点分析代码
+CheckTheTaintedFunctionPointer 是一个污点分析代码，用于检测函数指针是否被篡改

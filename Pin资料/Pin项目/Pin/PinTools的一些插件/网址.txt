@@ -1,0 +1,3 @@
+https://github.com/JonathanSalwan/PinTools
+
+这个网址是JonathanSalwan整理的关于pin框架的一些动态污点分析工具，对应的还有指导链接。

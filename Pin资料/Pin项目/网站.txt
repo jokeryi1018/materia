@@ -1,0 +1,31 @@
+
+				pin框架工具介绍	
+https://software.intel.com/en-us/articles/pin-a-binary-instrumentation-tool-downloads	//pin下载	
+
+https://software.intel.com/en-us/articles/pin-a-binary-instrumentation-tool-papers //pin的一些论文
+https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool//pin工具的官网
+
+http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/
+
+https://software.intel.com/en-us/articles/pin-a-binary-instrumentation-tool-faq  //常见问题解答
+
+https://software.intel.com/sites/landingpage/pintool/docs/81205/Pin/html/index.html//pin用户指南
+
+
+https://github.com/blankwall/Python_Pin  //用python写pin的源码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
